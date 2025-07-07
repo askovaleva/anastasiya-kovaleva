@@ -35,13 +35,13 @@
 
 Документация включает:
 - 📄 [Описание бота](https://github.com/askovaleva/VPN-bot-in-Telegram/blob/main/Docs/AppDocumentation.md)
-- 📐 [Архитектура проекта]()
-- ✅ [Чек-листы](./VPN-bot-in-Telegram/Checklists/)
-- 📋 [Тест-кейсы](./VPN-bot-in-Telegram/TestCases/)
-- 🐞 [Баг-репорты](./VPN-bot-in-Telegram/BugReports/)
-- 📊 [Тест-план](./VPN-bot-in-Telegram/TestPlan/TestPlan.md)
+- 📐 [Архитектура проекта](https://github.com/askovaleva/VPN-bot-in-Telegram/blob/main/ProjectArchitecture/ProjectArchitecture.md)
+- ✅ [Чек-листы](https://github.com/askovaleva/VPN-bot-in-Telegram/tree/main/Checklists)
+- 📋 [Тест-кейсы]([./VPN-bot-in-Telegram/TestCases/](https://github.com/askovaleva/VPN-bot-in-Telegram/tree/main/TestCases))
+- 🐞 [Баг-репорты](https://github.com/askovaleva/VPN-bot-in-Telegram/tree/main/BugReports)
+- 📊 [Тест-план](https://github.com/askovaleva/VPN-bot-in-Telegram/blob/main/TestPlan/TestPlan.md)
 
-🔗 [Перейти в README проекта](./VPN-bot-in-Telegram/README.md)
+🔗 [Перейти в README проекта](https://github.com/askovaleva/VPN-bot-in-Telegram/blob/main/README.md)
 
 ---
 
