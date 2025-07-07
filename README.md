@@ -79,7 +79,7 @@
 ## 💼 Где меня найти
 
 - 📧 Email: kuvsinova142@gmail.com
-- 📌 HH.ru: [Моё резюме](https://hh.ru/resume/...)
+- 📌 HH.ru: [Моё резюме](https://rostov.hh.ru/resume/356dc85eff0e2640af0039ed1f336c336c634f)
 
 ---
 
