@@ -37,7 +37,7 @@
 - 📄 [Описание бота](https://github.com/askovaleva/VPN-bot-in-Telegram/blob/main/Docs/AppDocumentation.md)
 - 📐 [Архитектура проекта](https://github.com/askovaleva/VPN-bot-in-Telegram/blob/main/ProjectArchitecture/ProjectArchitecture.md)
 - ✅ [Чек-листы](https://github.com/askovaleva/VPN-bot-in-Telegram/tree/main/Checklists)
-- 📋 [Тест-кейсы]([./VPN-bot-in-Telegram/TestCases/](https://github.com/askovaleva/VPN-bot-in-Telegram/tree/main/TestCases))
+- 📋 [Тест-кейсы](https://github.com/askovaleva/VPN-bot-in-Telegram/tree/main/TestCases)
 - 🐞 [Баг-репорты](https://github.com/askovaleva/VPN-bot-in-Telegram/tree/main/BugReports)
 - 📊 [Тест-план](https://github.com/askovaleva/VPN-bot-in-Telegram/blob/main/TestPlan/TestPlan.md)
 
